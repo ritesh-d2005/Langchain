@@ -1,0 +1,44 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langgraph
+
+# LangChain model integrations
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-huggingface
+
+# Model/API packages
+openai
+anthropic
+huggingface-hub
+transformers
+sentence-transformers
+
+# Environment variables
+python-dotenv
+
+# Streamlit UI
+streamlit
+
+# RAG / Vector databases
+chromadb
+faiss-cpu
+
+# Document loading / web data
+pypdf
+beautifulsoup4
+requests
+wikipedia
+youtube-transcript-api
+
+# Tokenization / ML utilities
+tiktoken
+numpy
+pandas
+scikit-learn
+
+langchain-groq
